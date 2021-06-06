@@ -1,4 +1,4 @@
-# github-API-Queries
+# Github API Queries
 
 (replace a with the appropriate User)
  
