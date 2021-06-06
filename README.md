@@ -2,9 +2,9 @@
 
 (replace a with the appropriate User)
  
-- [ Info about a User ](https://api.github.com/users/a) ( https<span>://</span>api.github.com/users/a )
+- [ Information about a User ](https://api.github.com/users/a) ( https<span>://</span>api.github.com/users/a )
 
-- [ Info about the repos of the User ](https://api.github.com/users/a/repos) ( https<span>://</span>api.github.com/users/a/repos )
+- [ Info about the repositories of the User ](https://api.github.com/users/a/repos) ( https<span>://</span>api.github.com/users/a/repos )
 
 - [ Info about the followers of the User ](https://api.github.com/users/a/followers) ( https<span>://</span>api.github.com/users/a/followers )
 
