@@ -15,6 +15,13 @@
 - [ Understanding the search syntax in Github API ](https://docs.github.com/en/github/searching-for-information-on-github/getting-started-with-searching-on-github/understanding-the-search-syntax )
 
 ----------------
+
+# Github Queries
+
+https://github.com/search?q=location%3Afrance&type=Users 
+
+https://github.com/search?l=Java&q=location%3Afrance&type=Users 
+
 ### Reference:
 
 https://docs.github.com/en/rest/reference/search
